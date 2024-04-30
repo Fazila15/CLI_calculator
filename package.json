@@ -1,6 +1,6 @@
 {
   "name": "fazila-malik-simple-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple calculator with Typescript, Nodejs and Inquirer.",
   "main": "index.js",
   "type": "module",
